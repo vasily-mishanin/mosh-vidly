@@ -27,7 +27,7 @@
 .App-link {
   color: #61dafb;
 }
-
+/* 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.btn-new-movie {
+  margin-bottom: 30px;
+}
+.form-group option :hover {
+  background-color: rgb(133, 154, 226);
 }
