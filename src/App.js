@@ -24,6 +24,7 @@ let App = () => {
           <Route path="/customers" component={Customers}></Route>
           <Route path="/rentals" component={Rentals}></Route>
           <Route path="/not-found" component={NotFoundPage}></Route>
+          <Redirect from="/mosh-vidly" exact to="/movies"></Redirect>
           <Redirect from="/" exact to="/movies"></Redirect>
           <Redirect to="/not-found"></Redirect>
         </Switch>
