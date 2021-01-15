@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22cb1468126a30c0e1a2a75866f0a20e",
+    "revision": "ce286f88c2925a4f8c854e6fbea5b71f",
     "url": "/mosh-vidly/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mosh-vidly/static/css/2.4bdbf95c.chunk.css"
   },
   {
-    "revision": "e158eb9ec4384b9d776a",
+    "revision": "334538e31978cea38e75",
     "url": "/mosh-vidly/static/css/main.5b36f601.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mosh-vidly/static/js/2.469ba402.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e158eb9ec4384b9d776a",
-    "url": "/mosh-vidly/static/js/main.eda0f16c.chunk.js"
+    "revision": "334538e31978cea38e75",
+    "url": "/mosh-vidly/static/js/main.99bef7d4.chunk.js"
   },
   {
     "revision": "f5982e87bda38608341d",

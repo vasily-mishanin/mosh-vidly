@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mosh-vidly/static/css/main.5b36f601.chunk.css",
-    "main.js": "/mosh-vidly/static/js/main.eda0f16c.chunk.js",
-    "main.js.map": "/mosh-vidly/static/js/main.eda0f16c.chunk.js.map",
+    "main.js": "/mosh-vidly/static/js/main.99bef7d4.chunk.js",
+    "main.js.map": "/mosh-vidly/static/js/main.99bef7d4.chunk.js.map",
     "runtime-main.js": "/mosh-vidly/static/js/runtime-main.172b5e64.js",
     "runtime-main.js.map": "/mosh-vidly/static/js/runtime-main.172b5e64.js.map",
     "static/css/2.4bdbf95c.chunk.css": "/mosh-vidly/static/css/2.4bdbf95c.chunk.css",
     "static/js/2.469ba402.chunk.js": "/mosh-vidly/static/js/2.469ba402.chunk.js",
     "static/js/2.469ba402.chunk.js.map": "/mosh-vidly/static/js/2.469ba402.chunk.js.map",
     "index.html": "/mosh-vidly/index.html",
-    "precache-manifest.ba11e647188895432cf5a3b211f89585.js": "/mosh-vidly/precache-manifest.ba11e647188895432cf5a3b211f89585.js",
+    "precache-manifest.133da53ed50a42b6c4c923648071c952.js": "/mosh-vidly/precache-manifest.133da53ed50a42b6c4c923648071c952.js",
     "service-worker.js": "/mosh-vidly/service-worker.js",
     "static/css/2.4bdbf95c.chunk.css.map": "/mosh-vidly/static/css/2.4bdbf95c.chunk.css.map",
     "static/css/main.5b36f601.chunk.css.map": "/mosh-vidly/static/css/main.5b36f601.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.4bdbf95c.chunk.css",
     "static/js/2.469ba402.chunk.js",
     "static/css/main.5b36f601.chunk.css",
-    "static/js/main.eda0f16c.chunk.js"
+    "static/js/main.99bef7d4.chunk.js"
   ]
 }

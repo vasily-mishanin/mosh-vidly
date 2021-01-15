@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mosh-vidly/precache-manifest.ba11e647188895432cf5a3b211f89585.js"
+  "/mosh-vidly/precache-manifest.133da53ed50a42b6c4c923648071c952.js"
 );
 
 self.addEventListener('message', (event) => {
