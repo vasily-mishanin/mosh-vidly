@@ -38,7 +38,7 @@ class MovieForm extends Form {
     this.setState({ genres });
 
     const movieId = this.props.match.params.id; //read it from props of Route wrapper (wraps MovieForm)
-    if (movieId === "new") return;
+    if (movieId === "new") return; // in this is new movie (empty form)
 
     const movie = getMovie(movieId);
     if (!movie) return this.props.history.replace("/not-found");
@@ -71,7 +71,7 @@ class MovieForm extends Form {
           {this.renderSelect("genreId", "Genre", this.state.genres)}
           {this.renderInput("numberInStock", "Number in Stock", "number")}
           {this.renderInput("dailyRentalRate", "Rate", "number")}
-          {/* validate() => if no errors => disabled=(null) i.e. false, else disabled={errors} i.e. true */}
+          {/* validate() => if no errors => Button disabled=(null) i.e. false, else disabled={errors} i.e. true */}
           {this.renderButton("Save")}
         </form>
       </div>
